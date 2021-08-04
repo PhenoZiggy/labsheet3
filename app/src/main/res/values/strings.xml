@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temp Tute 2</string>
+    <string name="btn_faren">Fahrenheit</string>
+    <string name="btn_celsius">Celsius</string>
+    <string name="button">Calculate</string>
+    <string name="et_value">Insert Temp Here</string>
+    <string name="answer">temp</string>
+</resources>
